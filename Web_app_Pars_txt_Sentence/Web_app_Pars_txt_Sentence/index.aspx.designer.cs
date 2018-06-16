@@ -31,6 +31,24 @@ namespace Web_app_Pars_txt_Sentence {
         protected global::System.Web.UI.WebControls.FileUpload FileUpload_Client;
         
         /// <summary>
+        /// TextBox_Word элемент управления.
+        /// </summary>
+        /// <remarks>
+        /// Автоматически создаваемое поле.
+        /// Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox TextBox_Word;
+        
+        /// <summary>
+        /// RequiredFieldValidatorName элемент управления.
+        /// </summary>
+        /// <remarks>
+        /// Автоматически создаваемое поле.
+        /// Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidatorName;
+        
+        /// <summary>
         /// Button_Import элемент управления.
         /// </summary>
         /// <remarks>
@@ -40,22 +58,22 @@ namespace Web_app_Pars_txt_Sentence {
         protected global::System.Web.UI.WebControls.Button Button_Import;
         
         /// <summary>
-        /// Label1 элемент управления.
+        /// Label_Error элемент управления.
         /// </summary>
         /// <remarks>
         /// Автоматически создаваемое поле.
         /// Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label1;
+        protected global::System.Web.UI.WebControls.Label Label_Error;
         
         /// <summary>
-        /// GridView1 элемент управления.
+        /// GridView_Sentence элемент управления.
         /// </summary>
         /// <remarks>
         /// Автоматически создаваемое поле.
         /// Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.GridView GridView1;
+        protected global::System.Web.UI.WebControls.GridView GridView_Sentence;
         
         /// <summary>
         /// SqlSentenceDB элемент управления.
