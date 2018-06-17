@@ -42,7 +42,7 @@ namespace Web_app_Pars_txt_Sentence
 
 
             /* Далі я роблю що коли користувач перший раз заходить на сайт то 
-             * за допомогою SEQUENCE Generate_ID_for_Users база генерує йому ID(PK_Sentence)
+             * за допомогою SEQUENCE Generate_ID_for_Users база генерує йому ID(User_ID)
              * яке записується йому в cookie щоб при наступному відкриванні сайту
              * йому показувались його минулі речення та слова які він шукав
              */

@@ -49,15 +49,6 @@ namespace Web_app_Pars_txt_Sentence {
         protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidatorName;
         
         /// <summary>
-        /// Button_Import элемент управления.
-        /// </summary>
-        /// <remarks>
-        /// Автоматически создаваемое поле.
-        /// Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Button Button_Import;
-        
-        /// <summary>
         /// Label_Error элемент управления.
         /// </summary>
         /// <remarks>
@@ -65,6 +56,15 @@ namespace Web_app_Pars_txt_Sentence {
         /// Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label Label_Error;
+        
+        /// <summary>
+        /// Button_Import элемент управления.
+        /// </summary>
+        /// <remarks>
+        /// Автоматически создаваемое поле.
+        /// Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button Button_Import;
         
         /// <summary>
         /// GridView_Sentence элемент управления.
